@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmed Bedeer 👨‍💻
+# Ahmed Bedir 👨‍💻
 **Frontend Developer | React & Tailwind CSS | UI/UX Designer**  
 Building modern, responsive, and high-performance web applications
 
