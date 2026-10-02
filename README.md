@@ -1,239 +1,177 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# Ahmed Bedir
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ahmed%20Bedir&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Engineer&descSize=18&descAlignY=58" alt="Header"/>
 
-### Data Analyst | Aspiring Data Engineer
-
-**SQL · Python · Power BI · Excel · ETL**
-
-<p>
-  <a href="https://github.com/Ahmed-Bedir">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-Bedir&style=flat-square&color=blue" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Ahmed-Bedir?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ahmed-Bedir?style=flat-square&label=Followers" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Ahmed-Bedir?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Ahmed-Bedir?style=flat-square&label=Stars" alt="GitHub Stars"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## About Me
-
-```text
-Data Analyst focused on transforming raw data into meaningful insights
-through data cleaning, analysis, visualization, and reporting.
-
-Currently developing my Data Engineering skills with a focus on
-SQL, Python, ETL workflows, data transformation, and data pipelines.
-```
-
----
-
-## Technical Skills
-
-### Data Analytics & Business Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white" alt="Power Query"/>
-  <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=microsoft&logoColor=white" alt="DAX"/>
-</p>
-
-### Programming & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### Data Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/ETL-FF6F00?style=flat-square" alt="ETL"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-4285F4?style=flat-square" alt="Data Cleaning"/>
-  <img src="https://img.shields.io/badge/Data%20Transformation-5C6BC0?style=flat-square" alt="Data Transformation"/>
-  <img src="https://img.shields.io/badge/Data%20Pipelines-00897B?style=flat-square" alt="Data Pipelines"/>
-</p>
-
-### Development & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
-### Additional Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
----
-
-## Featured Projects
-
-### Sales Analysis Dashboard
-
-**Power BI · DAX · Excel**
-
-Interactive dashboard for analyzing:
-
-* Sales and revenue
-* Costs and profitability
-* Product performance
-* Business KPIs
-* Data visualization
-
----
-
-### Telecom Customer Churn Analysis
-
-**Python · SQL · Power BI**
-
-Analysis of customer behavior and churn patterns to identify trends, customer segments, and actionable business insights.
-
----
-
-### Telecom Sales & Financial Analysis
-
-**SQL · Power BI · DAX**
-
-Analysis of telecom sales and financial data covering revenue, costs, product performance, and key financial KPIs.
-
----
-
-### RAG AI Application
-
-**Python · LangChain · LLMs**
-
-Built a Retrieval-Augmented Generation workflow using LLM endpoints, LangChain, structured outputs, synthetic QA data, and interactive interfaces.
-
----
-
-## Data Workflow
-
-<div align="center">
-
-**📥 Collect** → **🧹 Clean** → **🔄 Transform** → **🔍 Analyze** → **📊 Visualize** → **💡 Insights**
-
-</div>
-
----
-
-## Data Engineering Journey
-
-```text
-                 RAW DATA
-                    │
-                    ▼
-              DATA INGESTION
-                    │
-                    ▼
-             DATA CLEANING
-                    │
-                    ▼
-          DATA TRANSFORMATION
-                    │
-                    ▼
-              DATA STORAGE
-                    │
-                    ▼
-             DATA ANALYSIS
-                    │
-                    ▼
-             VISUALIZATION
-                    │
-                    ▼
-           BUSINESS INSIGHTS
-```
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Ahmed-Bedir&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-height="165"
-alt="Ahmed's GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Bedir&layout=compact&hide_border=true&theme=transparent"
-height="165"
-alt="Top Languages"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Ahmed-Bedir&theme=transparent&hide_border=true"
-width="70%"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Bedir&theme=github-compact&hide_border=true&area=true"
-width="95%"
-alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/Ahmed-Bedir">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2C9CDB&center=true&vCenter=true&width=620&lines=Turning+raw+data+into+decisions;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+ETL;Building+towards+Data+Engineering" alt="Typing SVG"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ahmed-bedeer/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://t.me/Ahmed_bedeer_abd">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-
-<a href="https://www.instagram.com/a.bin_badr/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-bedeer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/Ahmed_bedeer_abd"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.instagram.com/a.bin_badr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Bedir&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Views"/>
+</p>
 
 </div>
 
 ---
 
+## 👋 About
+
+I'm a **Data Analyst** who turns messy, raw data into clear insights that drive business decisions: cleaning, modeling, analysis, dashboards, and reporting.
+
+I'm now moving toward **Data Engineering**, building solid skills in SQL, Python, ETL workflows, and data pipelines.
+
+|  |  |
+|---|---|
+| 🎓 **Education** | B.Sc. Computer Science, Kafr El-Sheikh University (2024) |
+| 📚 **Postgraduate** | Master's student, Faculty of Computers & Information, Kafr El-Sheikh University |
+| 🏅 **Certification** | Data Analytics Diploma, Epsilon AI |
+| 🎯 **Focus** | Business Intelligence · ETL · Data Pipelines |
+
+---
+
+## 🧰 Tech Stack
+
+<table>
+<tr>
+<td><b>Analytics & BI</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Data & Programming</b></td>
+<td>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Data Engineering</b></td>
+<td>
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-5C6BC0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Pipelines-00897B?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>AI / LLMs</b></td>
+<td>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>Web & Tools</b></td>
+<td>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Sales Analysis Dashboard
+`Power BI` `DAX` `Excel`
+
+Interactive dashboard tracking revenue, costs, profitability, and product performance with executive-level KPIs.
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 Telecom Customer Churn Analysis
+`Python` `SQL` `Power BI`
+
+Explores customer behavior and churn drivers, segments customers, and surfaces actionable retention insights.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Telecom Sales & Financial Analysis
+`SQL` `Power BI` `DAX`
+
+End-to-end analysis of telecom revenue, costs, and product performance with a financial KPI layer.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 RAG AI Application
+`Python` `LangChain` `LLMs`
+
+Retrieval-Augmented Generation workflow with LLM endpoints, structured outputs, synthetic QA data, and an interactive interface.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌐 داتا بالعربي (Data in Arabic)
+`HTML` `CSS` `JavaScript` `Power BI`
+
+An Arabic-language data analytics learning platform with a 6-week bootcamp curriculum (18 lectures, 54 hours), embedded dashboards, and a dark data-viz design.
+
+</td>
+</tr>
+</table>
+
+> 🔗 More on my [repositories page](https://github.com/Ahmed-Bedir?tab=repositories).
+
+---
+
+## 🔄 How I Work
+
 <div align="center">
 
-### `Data → Insights → Engineering`
+**📥 Collect** → **🧹 Clean** → **🔄 Transform** → **🗄️ Store** → **🔍 Analyze** → **📊 Visualize** → **💡 Act**
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Bedir&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Bedir&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Ahmed-Bedir&theme=transparent&hide_border=true" alt="Streak"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Bedir&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm open to **Data Analyst** and **Data Engineering** opportunities, collaborations, and freelance work. Reach out on [LinkedIn](https://www.linkedin.com/in/ahmed-bedeer/) or [Telegram](https://t.me/Ahmed_bedeer_abd).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="Footer"/>
 
 </div>
